@@ -20,10 +20,6 @@ Dataset contained multiple dimension tables (DimFood, DimFood_Group, DimStage) a
 
 Relationships needed to be defined before building dashboards.
 
-⚠️ Challenges & Fixes
-
-Challenge	How It Was Resolved
-Large dataset required cleaning of dashes and nulls	Cleaned food group and product fields in Power Query
 
 🔜 Next Steps
 
@@ -31,11 +27,6 @@ Build star schema model in Power BI.
 
 Create baseline KPIs.
 
-📂 Files Updated / Created
-
-README.md (objectives and scope)
-
-data/footprints.xlsx (dataset reference)
 
 🧠 Key Learnings
 
