@@ -68,6 +68,3 @@ The dataset includes:
 - **Juliet Fafali Kukuia** (Data Analyst)  
  
 ---
-
-## 📜 License
-This project is for educational and research purposes. Please cite appropriately if reused.  
